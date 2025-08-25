@@ -1,6 +1,7 @@
 # Tauri + Deno + Vue + Rsbuild + TypeScript
 
-This is a tauri + deno + vue + rsbuild template. And use dprint for formatting. And including a vsc debug config.
+This is a tauri + deno + vue + rsbuild template. And use dprint for formatting.
+And including a vsc debug config.
 
 ## Recommended IDE Setup
 

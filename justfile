@@ -18,3 +18,6 @@ clippy:
 
 clean: 
     cd src-tauri && cargo clean
+
+fmt:
+    dprint fmt && cd src-tauri && cargo fmt
